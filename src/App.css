@@ -1,0 +1,20 @@
+@import '../node_modules/antd/dist/antd.css';
+
+.app {
+  background: #7c79e8;
+  padding: 30px;
+  height: 100vh;
+	display: flex;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 500px;
+	margin: auto;
+}
+
+button.ant-btn {
+	margin: 0 3px;
+}
